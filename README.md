@@ -1,5 +1,5 @@
 # mini_katalog_app
-**Mini Katalog**, kullanıcıların giriş yaparak ürünleri inceleyebildiği, ürün detaylarını görüntüleyebildiği ve beğendikleri ürünleri sepete ekleyebildiği basit ve kullanıcı dostu bir mobil katalog uygulamasıdır.
+**Mini Katalog**, kullanıcıların ürünleri inceleyebildiği, ürün detaylarını görüntüleyebildiği ve beğendikleri ürünleri sepete ekleyebildiği basit ve kullanıcı dostu bir mobil katalog uygulamasıdır.
 
 Flutter 3.47.0 • channel stable
 
